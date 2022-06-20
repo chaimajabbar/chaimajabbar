@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chaimajabbar
-- 👀 I’m interested in Data science for Public Policy 
-- 🌱 I’m currently taking CS50's Understading Technology and CS50's intro to CS courses
+- 👀 I’m interested in Data science  
 - 📫 How to reach me : chaimajabbar@gmail.com
 
 <!---
